@@ -1,6 +1,6 @@
 # Dead-Island-2-Uncut-Mod
 
-Einige Spieler haben möglicherweise Schwierigkeiten, die ungeschnittene Version von Dead Island 2 in Deutschland zu spielen. Wenn du zu dieser Gruppe gehörst, kann ich dir möglicherweise helfen.
+Einige Spieler haben möglicherweise Schwierigkeiten, die ungeschnittene Version von Dead Island 2 in Deutschland zu spielen. Wenn du zu dieser Gruppe gehörst, kann ich dir vielleicht helfen.
 
 Es gibt eine Möglichkeit, die USK-Version des Spiels uncut zu spielen, ohne ausländische Accounts oder ähnliche Maßnahmen zu ergreifen. Dazu musst du einfach die originale Datei der Uncut-Version des Entwicklers herunterladen und in den Ordner des installierten Spiels kopieren.
 
